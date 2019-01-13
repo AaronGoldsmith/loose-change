@@ -1,0 +1,20 @@
+#text-input {
+  height: 2em;
+  width: 100%;
+  margin: 20px 0px 0px 0px;
+  padding: 5px;
+}
+
+#result {
+  display: inline-flex;
+  margin-top: 20px;
+  width: 500px;
+}
+.container {
+  width: 50%;
+  margin-left: 25px;
+}
+
+#validity {
+  margin-right: 20px;
+}
