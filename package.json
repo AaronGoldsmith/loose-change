@@ -1,10 +1,11 @@
 {
   "name": "loose-change",
   "version": "1.0.0",
-  "description": "",
+  "description": "A phone number parser",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "src": "src"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
