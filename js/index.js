@@ -1,7 +1,6 @@
 var regex = /((?![\D1])\d{3,})/g;
 var special = /[^0-9]+/g;
 var beginning = function beginning(str) {return str.search(regex);};
-var testPhrases = ["Hi everyone, my name is Aaron Goldsmith. You can reach me at (510) 289-4099", "5102894099", "+15102894099"];
 
 // checkNumber returns a callback function with the expected result
 function checkNumber(message, cb) {
