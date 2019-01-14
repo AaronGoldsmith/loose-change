@@ -1,4 +1,8 @@
 
-#NPM PACKAGES
+#  NPM PACKAGES
 node_modules/
+
+#  package-lock (node)
 package-lock.json
+
+
