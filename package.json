@@ -1,0 +1,25 @@
+{
+  "name": "loose-change",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronGoldsmith/loose-change.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronGoldsmith/loose-change/issues"
+  },
+  "homepage": "https://github.com/AaronGoldsmith/loose-change#readme",
+  "dependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
