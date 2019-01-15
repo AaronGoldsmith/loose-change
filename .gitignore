@@ -8,3 +8,4 @@ package-lock.json
 # enviormental settings
 .env
 
+.DS_Store
